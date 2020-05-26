@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+/.idea
+chromedriver.log
+reports
+tests_output
